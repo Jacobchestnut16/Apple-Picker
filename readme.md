@@ -12,3 +12,22 @@ Focusing on:
 * Displaying score and high score on screen
 * Using PlayerPrefs to track high score across multiple games
 * Using Physics Layers to specify which GameObjects will collide with others and much more!
+
+---
+## The AppleTreeMain scene
+
+`AppleTree` GameObject - with a ridged body, and two other 3d objects to resemble a Tree.
+
+* Leaves with a `Mat_Leaves` material
+* Trunk with a `Mat_wood` material
+
+`Apple` GameObject - with a ridged body and three other 3d objects to resemble a apple.
+
+* Apple body with a `Mat_Apple` material
+* 2 AppleLeaf's with a `Mat_apple` material
+
+`Baket` GameObject as a 3d Cube - with a ridged body set to *Kinematic* and includes a `Mat_Basket` material
+
+
+___
+###### This project was made in Unity 2020
