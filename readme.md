@@ -28,6 +28,24 @@ Focusing on:
 
 `Baket` GameObject as a 3d Cube - with a ridged body set to *Kinematic* and includes a `Mat_Basket` material
 
+---
 
+## Coding
+* Move at a certain speed every frame.
+* Change direction upon nearing the edge of the play area.
+* Also sometimes change direction based on random chance.
+* Drop an apple every second.
+
+![Chapter Diagram by Jeremy Gibson Bond](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780136619918/files/graphics/29fig10.jpg)
+**Image by Jeremy Gibson Bond**
+
+## Coding Cont'
+* Dynamically add baskets
+* Remove a basket when the player misses an apple
+* Score
+    * Set the current score
+    * Set the High score when the current score > memory `HighScore`
+    * Set the `HighScore` Value in the PlayerPrefs
+    * Set a reset checkbox to reset the `HighScore`
 ___
 ###### This project was made in Unity 2020
