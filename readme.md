@@ -37,7 +37,8 @@ Focusing on:
 * Drop an apple every second.
 
 ![Chapter Diagram by Jeremy Gibson Bond](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780136619918/files/graphics/29fig10.jpg)
-**Image by Jeremy Gibson Bond**
+
+*Image by Jeremy Gibson Bond*
 
 ## Coding Cont'
 * Dynamically add baskets
